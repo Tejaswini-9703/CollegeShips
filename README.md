@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/siddhesh-desai/CollegeShip">
+  <a href="https://github.com/Tejaswini-9703/CollegeShips">
     <img src="images/CollegeShip-logo.png" alt="Logo">
   </a>
     <br>
@@ -23,11 +23,11 @@
     <br>
     <a href="https://github.com/siddhesh-desai/CollegeShip"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/siddhesh-desai/CollegeShip">View Demo</a>
+    <a href="https://github.com/Tejaswini-9703/CollegeShips">View Demo</a>
     ·
-    <a href="https://github.com/siddhesh-desai/CollegeShip/issues">Report Bug</a>
+    <a href="https://github.com/Tejaswini-9703/CollegeShipsp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/siddhesh-desai/CollegeShip/issues">Request Feature</a>
+    <a href="https://github.com/Tejaswini-9703/CollegeShips/issues">Request Feature</a>
   </p>
 </div>
 
@@ -112,7 +112,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - [x] Offline System
 - [x] Optical Character Recognition
 
-See the [open issues](https://github.com/siddhesh-desai/CollegeShip/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Tejaswini-9703/CollegeShips/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +139,7 @@ Don't forget to give the project a star! Thanks again!
 
 Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
 
-Project Link: [https://github.com/siddhesh-desai/CollegeShip](https://github.com/siddhesh-desai/CollegeShip)
+Project Link: [https://Tejaswini-9703/CollegeShips](https://github.com/Tejaswini-9703/CollegeShips)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
